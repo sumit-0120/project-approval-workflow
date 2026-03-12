@@ -86,5 +86,5 @@ php artisan db:seed
 ## Demo Credentials
 
 Admin Login  
-Email: admin@ggmial.com  
+Email: admin@gmail.com  
 Password: sR12345
